@@ -1,0 +1,4 @@
+.real{
+    grid-template-columns: auto;
+    grid-template-rows: minmax();
+}
